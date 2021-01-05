@@ -11,7 +11,6 @@ Change `REPLACE_WITH_YOUR_PASSWORD` with your own password:
 
 ```
 quarkus.package.type=mutable-jar
-quarkus.http.host=0.0.0.0
 quarkus.live-reload.password=REPLACE_WITH_YOUR_PASSWORD
 ```
 
