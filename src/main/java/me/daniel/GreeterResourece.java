@@ -11,6 +11,6 @@ public class GreeterResourece {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello RESTEasy from OpenShift2";
+        return "Hello RESTEasy from Local";
     }
 }
